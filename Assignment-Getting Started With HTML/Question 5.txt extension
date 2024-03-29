@@ -1,0 +1,9 @@
+What is the DOCTYPE Declaration in HTML ?
+<!DOCTYPE html>: We start the file with '<!DOCTYPE html>'. It tells the browser what type of document to
+expect; in this case it is an HTML document.
+
+* The <DOCTYPE> declaration represents the document type, and helps browsers to display web pages
+correctly.
+* It must appear only once, at the top of the page(before HTML tag).
+* The <DOCTYPE> declaration is not case sensitive. We can write any of the following, it does not give any
+error.

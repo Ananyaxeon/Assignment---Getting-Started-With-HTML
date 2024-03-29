@@ -1,0 +1,23 @@
+The purpose of comments in Html ?
+-> Comments are useful when we want to write something about the code but we do not want to run that
+or show in the output.Comments are basically for humans, we write comments for our future or for other developers who
+might work on the same codebase.
+HTML comments serve various purposes, including:
+1. Documentation: Developers often use comments to explain the purpose or functionality of certain code
+blocks, making it easier for themselves or others to understand the codebase.
+2. Debugging: Comments can help in troubleshooting or temporarily disabling sections of code for testing
+purposes without deleting them.
+3. Reminder: Comments can act as reminders for future modifications or improvements to the code.
+4. Work in progress: Comments can mark unfinished sections or indicate that certain code is under
+development.
+
+
+
+provide an example of how to use comments in an HTML document .
+
+<!-- -->
+Example :
+<!-- This is a single line comment. -->
+
+<!-- This is a comment
+This can be a multi line as well -->
